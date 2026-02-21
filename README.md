@@ -24,3 +24,14 @@ An AI-based Resume Screening System built using Flask and NLP techniques.
 
 ## Author
 Utkarsh Pathak
+## Demo
+To run locally:
+
+```bash
+git clone https://github.com/utkarshpathak678-cyber/ai-resume-analyzer.git
+cd ai-resume-analyzer
+pip install -r requirements.txt
+python app.py
+---
+
+ requirements.txt 
